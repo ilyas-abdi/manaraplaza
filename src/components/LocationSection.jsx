@@ -124,7 +124,7 @@ export default function LocationSection() {
               {/* Google Maps Embed iframe styled for luxury contrast */}
               <iframe
                 title="Manara Plaza Resort Google Maps Location"
-                src="https://maps.google.com/maps?q=28P2%2B5CF,+Mogadishu,+Somalia&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                src="https://maps.google.com/maps?q=MANARA+PLAZA+RESORT,+2.0354328,45.3010364&t=&z=16&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="100%"
                 className="w-full flex-1 min-h-[360px] border-0 filter grayscale contrast-125 opacity-85 hover:opacity-100 hover:grayscale-0 transition-all duration-700"

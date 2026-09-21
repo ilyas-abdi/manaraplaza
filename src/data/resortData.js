@@ -28,7 +28,8 @@ export const RESORT_DATA = {
     city: "Mogadishu",
     country: "Somalia",
     plusCode: "28P2+5CF",
-    googleMapsUrl: "https://maps.google.com/?q=28P2%2B5CF,+Mogadishu,+Somalia",
+    googleMapsUrl: "https://www.google.com/maps/place/MANARA+PLAZA+RESORT/@2.0354542,45.2907366,15z/data=!3m1!4b1!4m6!3m5!1s0x3d584200ce162043:0x74e227276cfe905!8m2!3d2.0354328!4d45.3010364!16s%2Fg%2F11fxzpxnhc",
+    directionsUrl: "https://www.google.com/maps/dir/?api=1&destination=MANARA+PLAZA+RESORT&destination_place_id=ChIJQyAWDgBCWD0R-ZDs7CeU4nQ",
     // Note from Google Maps listing
     // listedDomain: "boqorada.com",
   },
